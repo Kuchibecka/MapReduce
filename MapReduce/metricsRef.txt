@@ -1,0 +1,6 @@
+RAM
+HDD
+SSD
+CPU
+GPU
+PC
